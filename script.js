@@ -190,7 +190,7 @@ async function getAndSetLocationData() {
 async function setDefaultInformation(latitude, longitude) {
 
     /**DATA VARIABLES NEEDED */
-    const weatherApiKey = 'f2e11fefb43702039ecec5423305be7f';
+    const weatherApiKey = 'fd117bcbd00f84136a9205f9ac542b05';
     const newsApiKey = '7d5998bd20654f41b017b2aa49d042a1'; // Replace with your News API key
     const googleApiKey = 'AIzaSyB2-Lhgprfg0zzJjoe54MBlUeO27U3PBw8'; // Replace with your Google Maps API key
     const locationInput = document.getElementById('location');
